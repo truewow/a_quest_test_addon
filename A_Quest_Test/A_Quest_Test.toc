@@ -1,0 +1,6 @@
+## Interface: 30300
+## Title: A Quest Test
+## Author: Fastor (idea and work based on The DT "BuddyChecker" and Heihachi "Bugged Quest Checker")
+## Notes: Testing quest on its pickup is it bugged and auto complete it if it is. Works on Truewow and Primalwow.
+
+A_Quest_Test.lua
